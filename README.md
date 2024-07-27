@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Example](#example)
+- [Example](#final-result)
 
 ## Introduction
 Welcome to the repository for custom themes for Check_MK RAW/CRE. This project provides a set of visually appealing icons designed to enhance the default Check_MK icon set, helping users distinguish between multiple instances by using different colors.
@@ -18,9 +18,9 @@ To install and apply the custom icon theme, follow these steps:
     /opt/omd/versions/<version>/share/check_mk/web/htdocs/themes/<default-theme>/images
     ```
 
-2. **Download the Custom Icons/Theme**
+2. **Download the Custom Theme**  
     Download the custom theme files from this repository.
-3. **Choose Your Color Theme**
+3. **Choose Your Color Theme**  
     Select the color theme folder you wish to use
 4. **Overwright the default files**
 5. **Restart Check_MK**
@@ -29,6 +29,6 @@ To install and apply the custom icon theme, follow these steps:
     omd restart
     ```
 
-## Example
+## Final result
 ![Example](example.png)
 
