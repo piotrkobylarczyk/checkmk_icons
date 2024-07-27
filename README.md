@@ -7,7 +7,7 @@
 - [Example](#final-result)
 
 ## Introduction
-Welcome to the repository for custom themes for Check_MK RAW/CRE. This project provides a set of visually appealing icons designed to enhance the default Check_MK icon set, helping users distinguish between multiple instances by using different colors.
+Welcome to the repository for custom themes for Check_MK RAW/CRE. This project provides a set of visually appealing icons designed to enhance the default icon set, helping users distinguish between multiple instances by using different colors.
 
 ## Installation
 
