@@ -1,5 +1,8 @@
 ![Preview](preview.png)
 # Custom Themes for Check_MK RAW/CRE
+
+> **Note:** ⚠️ This solution works only for Check_MK version 1.6.0p30 and below. ⚠️
+
 ## Table of Contents
 
 - [Introduction](#introduction)
